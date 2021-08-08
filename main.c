@@ -3,7 +3,7 @@
 
 int main()
 {
-
-   printf("%d",20);
+unsigned short int i = 0;
+   printf("%d",i--);
     return 0;
 }
